@@ -1,0 +1,9 @@
+eclipse和MYSQL安装：
+	mysql免安装环境配置：
+		1，配置mysql环境变量；
+		2，设置my.ini配置文件，创建data文件夹等；
+		3，配置完成后，以管理员的身份打开cmd,运行命令：mysqld install，
+		5，登录mysql服务器。   遇到的各种问题百度解决
+SpringBoot入门：一个微型框架，用于简化Spring应用的搭建和开发流程
+		优点：自动配置，依赖包管理等
+		入门实例：利用eclipse的maven插件，构建springboot项目，配置pom.xml文件，利用浏览器访问方法。
